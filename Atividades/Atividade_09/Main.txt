@@ -1,0 +1,29 @@
+using System;
+
+class Main {
+  public static void Main (string[] args) {
+    Console.WriteLine();
+    Console.WriteLine("testando a composição ");
+  
+
+    Cilindro c = new Cilindro(3,5,2,4);
+    Console.WriteLine(c.volume());
+
+    Console.WriteLine();
+
+
+    Console.WriteLine("testando a herança ");
+
+    Cilindro1 c1 = new Cilindro1(3,5,2,4);
+    Console.WriteLine(c1.volume());
+
+    
+  }
+
+}
+
+
+
+
+
+

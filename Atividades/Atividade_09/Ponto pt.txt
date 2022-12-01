@@ -1,0 +1,37 @@
+
+public class Circulo {
+  
+  private double raio;
+  private Ponto pt;
+
+  public Circulo(){
+    pt = new Ponto(0,0);
+  }
+
+  public Circulo(int x, int y, double raio) {
+    pt = new Ponto(x,y);
+    if(raio>=0)
+      this.raio = raio;
+  }
+  
+  public void setRaio(int raio) {
+    this.raio = raio;
+  }
+
+  public double getRaio() {
+    return this.raio;
+  }
+
+  public virtual double perimetro(){
+    return Math.PI*2*raio;
+  }
+
+  public virtual double area(){
+    return Math.PI*raio*raio;
+  }
+
+  public override string ToString(){
+    return "";
+  }
+
+}

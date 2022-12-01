@@ -1,0 +1,13 @@
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\bin\Debug\netcoreapp3.1\Notas.exe
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\bin\Debug\netcoreapp3.1\Notas.deps.json
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\bin\Debug\netcoreapp3.1\Notas.runtimeconfig.json
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\bin\Debug\netcoreapp3.1\Notas.runtimeconfig.dev.json
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\bin\Debug\netcoreapp3.1\Notas.dll
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\bin\Debug\netcoreapp3.1\Notas.pdb
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\obj\Debug\netcoreapp3.1\Notas.csprojAssemblyReference.cache
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfoInputs.cache
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfo.cs
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\obj\Debug\netcoreapp3.1\Notas.csproj.CoreCompileInputs.cache
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\obj\Debug\netcoreapp3.1\Notas.dll
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\obj\Debug\netcoreapp3.1\Notas.pdb
+C:\Dev_workspace\Projetos\PUC\POO\Aulas\03182021\Notas\obj\Debug\netcoreapp3.1\Notas.genruntimeconfig.cache

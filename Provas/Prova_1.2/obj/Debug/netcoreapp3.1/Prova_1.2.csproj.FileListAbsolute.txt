@@ -1,0 +1,13 @@
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\bin\Debug\netcoreapp3.1\Prova_1.2.exe
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\bin\Debug\netcoreapp3.1\Prova_1.2.deps.json
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\bin\Debug\netcoreapp3.1\Prova_1.2.runtimeconfig.json
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\bin\Debug\netcoreapp3.1\Prova_1.2.runtimeconfig.dev.json
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\bin\Debug\netcoreapp3.1\Prova_1.2.dll
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\bin\Debug\netcoreapp3.1\Prova_1.2.pdb
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\obj\Debug\netcoreapp3.1\Prova_1.2.csprojAssemblyReference.cache
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\obj\Debug\netcoreapp3.1\Prova_1.2.AssemblyInfoInputs.cache
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\obj\Debug\netcoreapp3.1\Prova_1.2.AssemblyInfo.cs
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\obj\Debug\netcoreapp3.1\Prova_1.2.csproj.CoreCompileInputs.cache
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\obj\Debug\netcoreapp3.1\Prova_1.2.dll
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\obj\Debug\netcoreapp3.1\Prova_1.2.pdb
+C:\Dev_workspace\Projetos\PUC\POO\Provas\Prova_1.2\obj\Debug\netcoreapp3.1\Prova_1.2.genruntimeconfig.cache

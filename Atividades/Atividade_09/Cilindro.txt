@@ -1,0 +1,37 @@
+
+public class Cilindro {
+
+  private double altura;
+  private Circulo cir;
+
+  public Cilindro(){
+    cir = new Circulo(0,0,0);
+  }
+
+  public Cilindro(int x, int y, double raio, double altura) {
+    cir = new Circulo(x,y,raio);
+    if(altura>0)
+      this.altura = altura;
+  }
+
+  public void setAltura(int altura) {
+    this.altura = altura;
+  }
+
+  public double getAltura() {
+    return this.altura;
+  }
+
+  public double area(){
+    return 2 * cir.area() + cir.perimetro() * altura;
+  }
+
+  public double volume(){
+    return cir.area()*altura;
+  }
+
+  public override string ToString(){
+    return "Cilindro com " + cir.ToString()+ "\n  altura = "+altura;
+  }
+
+}

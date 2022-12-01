@@ -1,0 +1,26 @@
+public class Circulo1 : Ponto1{
+  
+  private double raio;
+
+  public Circulo1(){}
+  public Circulo1(int x, int y, double raio):base(x,y){
+    if(raio>=0)
+      this.raio = raio;
+  }
+  
+  public double Raio{
+    set{ if(value>=0)
+            raio = value;
+        }
+    get{ return raio;}
+  }
+  public double perimetro(){
+    return Math.PI*2*raio;
+  }
+  public virtual double area(){
+    return Math.PI*raio*raio;
+  }
+  public override string ToString(){
+    return "Círculo de centro = "+ base.ToString()+" e raio = "+raio;
+  }
+}

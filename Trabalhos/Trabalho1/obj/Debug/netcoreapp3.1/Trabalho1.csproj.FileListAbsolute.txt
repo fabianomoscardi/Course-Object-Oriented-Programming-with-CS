@@ -1,0 +1,13 @@
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\bin\Debug\netcoreapp3.1\Trabalho1.exe
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\bin\Debug\netcoreapp3.1\Trabalho1.deps.json
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\bin\Debug\netcoreapp3.1\Trabalho1.runtimeconfig.json
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\bin\Debug\netcoreapp3.1\Trabalho1.runtimeconfig.dev.json
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\bin\Debug\netcoreapp3.1\Trabalho1.dll
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\bin\Debug\netcoreapp3.1\Trabalho1.pdb
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\obj\Debug\netcoreapp3.1\Trabalho1.csprojAssemblyReference.cache
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\obj\Debug\netcoreapp3.1\Trabalho1.AssemblyInfoInputs.cache
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\obj\Debug\netcoreapp3.1\Trabalho1.AssemblyInfo.cs
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\obj\Debug\netcoreapp3.1\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\obj\Debug\netcoreapp3.1\Trabalho1.dll
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\obj\Debug\netcoreapp3.1\Trabalho1.pdb
+C:\Dev_workspace\Projetos\PUC\POO\Trabalhos\Trabalho1\obj\Debug\netcoreapp3.1\Trabalho1.genruntimeconfig.cache
